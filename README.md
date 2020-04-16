@@ -23,7 +23,7 @@ libraryDependencies += "org.seleniumhq.selenium" % "selenium-java" % "3.141.59" 
 To demonstrate the implementation of page object pattern we use two application here, Google Search and 
 Spree Demo website. Note that we don't use Page Factory pattern here as its going to be deprecated.
 
-The tests are located [here](/src/scala/tests) and the pageobject classes are located [here](/src/scala/pages)
+The tests are located [here](/src/test/scala/tests) and the pageobject classes are located [here](src/test/scala/pages)
 
 ### Execute Tests
 `sbt test`
