@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalatestplus:scalatestplus-selenium_2.13:1.0.0-M2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/scalatestplus-selenium_2.13/1.0.0-M2/scalatestplus-selenium_2.13-1.0.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/scalatestplus-selenium_2.13/1.0.0-M2/scalatestplus-selenium_2.13-1.0.0-M2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatestplus/scalatestplus-selenium_2.13/1.0.0-M2/scalatestplus-selenium_2.13-1.0.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
