@@ -27,6 +27,8 @@ The tests are located [here](/src/test/scala/tests) and the pageobject classes a
 
 ### Execute Tests
 `sbt test`
+### IDE
+You could use [Scala for Eclipse](http://scala-ide.org/) or IntelliJ Idea Community with Scala [plugin](https://plugins.jetbrains.com/plugin/1347-scala)
 
 References:
 * [Scala School](https://twitter.github.io/scala_school/)
